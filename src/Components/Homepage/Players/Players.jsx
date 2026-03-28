@@ -17,7 +17,7 @@ const Players = ({playersPromise, setCoin, coin}) => {
                     {SelectedType === 'available' ?
                         <h2 className='font-bold text-3xl'>Available Players</h2>
                         : (
-                        <h2 className='font-bold text-3xl'>Selected Players</h2>  
+                        <h2 className='font-bold text-3xl'>Selected Players ({selectedPlayers.length}/{players.length})</h2>  
                         )}
                 </div>
                 <div className=''>
@@ -26,7 +26,7 @@ const Players = ({playersPromise, setCoin, coin}) => {
                     className={`btn ${SelectedType === 'available' ? 'bg-[#E7FE29]' : ""} rounded-r-none rounded-l-xl`}l>Available</button>
                     <button
                     onClick={() => setSelectedType('selected')} 
-                    className={`btn ${SelectedType === 'selected' ? 'bg-[#E7FE29]' : ""} rounded-l-none rounded-r-xl`}>Selected (0)</button>
+                    className={`btn ${SelectedType === 'selected' ? 'bg-[#E7FE29]' : ""} rounded-l-none rounded-r-xl`}>Selected({selectedPlayers.length})</button>
                 </div>
             </div>
 
