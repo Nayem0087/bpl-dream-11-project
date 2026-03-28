@@ -56,7 +56,7 @@
     "rating": 8.9,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm legbreak",
-    "price": 1200,
+    "price": 12000,
     "playerImg": "https://live-production.wcms.abc-cdn.net.au/4931a0ff7bb4db5babc0d81d5a2e1e59?impolicy=wcms_crop_resize&cropH=1695&cropW=3014&xPos=0&yPos=69&width=862&height=485"
   },
   {
@@ -66,7 +66,7 @@
     "rating": 9.0,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1250,
+    "price": 12500,
     "playerImg": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/joerootdec30thumbnail.jpg"
   },
   {
@@ -76,7 +76,7 @@
     "rating": 9.4,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
-    "price": 1450,
+    "price": 14500,
     "playerImg": "https://cricketcupworld.com/wp-content/uploads/2024/05/jasprit-bumrah-AA.webp"
   },
   {
@@ -86,7 +86,7 @@
     "rating": 8.8,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Left-arm fast-medium",
-    "price": 1100,
+    "price": 11000,
     "playerImg": "https://c.ndtvimg.com/2025-05/k8jvpjso_trent-boult-bcci_625x300_14_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
   },
   {
@@ -96,7 +96,7 @@
     "rating": 9.3,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
-    "price": 1500,
+    "price": 12000,
     "playerImg": "https://e0.365dm.com/20/11/2048x1152/skysports-rashid-khan-sussex_5166753.jpg?20201109120201"
   }
 ]

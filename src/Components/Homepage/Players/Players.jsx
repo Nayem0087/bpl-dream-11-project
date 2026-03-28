@@ -8,6 +8,7 @@ const Players = ({playersPromise, setCoin, coin}) => {
     // console.log(players);
     const [SelectedType, setSelectedType] = useState('available');
     console.log(SelectedType, 'selectedType');
+    const [selectedPlayers, setSelectedPlayers] = useState([]);
 
     return (
         <div className='sm:w-[90%] mx-auto my-16'>
@@ -29,10 +30,15 @@ const Players = ({playersPromise, setCoin, coin}) => {
                 </div>
             </div>
 
-            {SelectedType === 'available' ?<AvailablePlayers players={players} setCoin={setCoin} coin={coin}></AvailablePlayers> : <SelectedPlayers></SelectedPlayers>}
-
+            {SelectedType === 'available' ? ( <AvailablePlayers 
+            players={players} 
+            setCoin={setCoin} 
+            coin={coin} 
+            setSelectedPlayers={setSelectedPlayers} 
+            selectedPlayers={selectedPlayers}></AvailablePlayers> ) : (
+            <SelectedPlayers selectedPlayers={selectedPlayers}></SelectedPlayers>
+            )}
         </div>
-    );
-};
-
+    
+    )}
 export default Players;
