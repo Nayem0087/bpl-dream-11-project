@@ -7,7 +7,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
     "price": 1500000,
-    "playerImg": "https://randomuser.me/api/portraits/men/1.jpg"
+    "playerImg": "https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/kohli231007.jpg"
   },
   {
     "playerName": "Babar Azam",
@@ -17,7 +17,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1400000,
-    "playerImg": "https://randomuser.me/api/portraits/men/2.jpg"
+    "playerImg": "https://miro.medium.com/v2/resize:fit:1100/format:webp/1*i2D04lfp1IX_Sai5QfKpbA.gif"
   },
   {
     "playerName": "Ben Stokes",
@@ -27,7 +27,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
     "price": 1600000,
-    "playerImg": "https://randomuser.me/api/portraits/men/3.jpg"
+    "playerImg": "https://cdn.shopify.com/s/files/1/0278/4565/6649/files/WhatsApp_Image_2024-05-31_at_01.20.04.webp?v=1717098851"
   },
   {
     "playerName": "Shakib Al Hasan",
@@ -37,7 +37,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Left-arm orthodox",
     "price": 1300000,
-    "playerImg": "https://randomuser.me/api/portraits/men/4.jpg"
+    "playerImg": "https://img-cdn.publive.online/fit-in/1280x720/filters:format(webp)/crictoday/media/media_files/wp-content/uploads/2025/03/Shakib-Al-Hasan.webp"
   },
   {
     "playerName": "Kane Williamson",
@@ -47,7 +47,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1350000,
-    "playerImg": "https://randomuser.me/api/portraits/men/5.jpg"
+    "playerImg": "https://www.stuff.co.nz/media/images/9Tzi8ywRz924XE3uHaD6DfGZQfjEdZd7oKlsiR53VLHvSZExpMzuRmKdwHbkL9PkwOsB%2FeyBxRwIZitU2SuWHkD4OScdv9XGLdOzDc3t63VwauhLE6HIszR9hUNxqsMjeNiw8kXYvdHV5lgD+MqgS8mAknxMWgsfPYk2nhE32lch7hP5h8qBEJwz4chFQcUw"
   },
   {
     "playerName": "David Warner",
@@ -57,7 +57,7 @@
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": 1200000,
-    "playerImg": "https://randomuser.me/api/portraits/men/6.jpg"
+    "playerImg": "https://live-production.wcms.abc-cdn.net.au/4931a0ff7bb4db5babc0d81d5a2e1e59?impolicy=wcms_crop_resize&cropH=1695&cropW=3014&xPos=0&yPos=69&width=862&height=485"
   },
   {
     "playerName": "Joe Root",
@@ -67,7 +67,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
     "price": 1250000,
-    "playerImg": "https://randomuser.me/api/portraits/men/7.jpg"
+    "playerImg": "https://d3lzcn6mbbadaf.cloudfront.net/media/details/joerootdec30thumbnail.jpg"
   },
   {
     "playerName": "Jasprit Bumrah",
@@ -77,7 +77,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm fast",
     "price": 1450000,
-    "playerImg": "https://randomuser.me/api/portraits/men/8.jpg"
+    "playerImg": "https://cricketcupworld.com/wp-content/uploads/2024/05/jasprit-bumrah-AA.webp"
   },
   {
     "playerName": "Trent Boult",
@@ -87,7 +87,7 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Left-arm fast-medium",
     "price": 1100000,
-    "playerImg": "https://randomuser.me/api/portraits/men/9.jpg"
+    "playerImg": "https://c.ndtvimg.com/2025-05/k8jvpjso_trent-boult-bcci_625x300_14_May_25.jpg?im=FeatureCrop,algorithm=dnn,width=1200,height=738"
   },
   {
     "playerName": "Rashid Khan",
@@ -97,6 +97,6 @@
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm legbreak",
     "price": 1500000,
-    "playerImg": "https://randomuser.me/api/portraits/men/10.jpg"
+    "playerImg": "https://e0.365dm.com/20/11/2048x1152/skysports-rashid-khan-sussex_5166753.jpg?20201109120201"
   }
 ]

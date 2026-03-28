@@ -5,7 +5,7 @@ const Card = ({player}) => {
     return (
         <div className="card bg-base-100  shadow-sm">
             <figure>
-                <img
+                <img className='max-h-48 w-full'
                     src={player.playerImg}
                     alt="Shoes" />
             </figure>
