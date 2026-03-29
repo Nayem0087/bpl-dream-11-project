@@ -1,11 +1,12 @@
 import React from 'react';
-import bannerImg from '../../../../assets/banner-main.png'
+import bannerImg from '../../../../assets/Frame 8.png'
 
 const Banner = () => {
     return (
-        <div className='min-h-[60vh] sm:w-[90%] mx-auto'>
+        <div className=' sm:w-[90%] mx-auto'>
             <img src={bannerImg} alt="" />
         </div>
+        
     );
 };
 
